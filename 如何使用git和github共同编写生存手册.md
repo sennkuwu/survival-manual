@@ -8,7 +8,7 @@
 
 
 
-#### 情景故事
+# 情景故事
 
 小明写完了一篇论文，命名为”毕业论文.doc“，为了方便论文进行版本管理，小明注册了github账号，创建了一个Repositories。填写名字，然后点击最下面的Creat repositories。
 
@@ -32,7 +32,7 @@
 下载完之后进行修改标题，修改完，登录github论文项目，和第一天一样上传文件即可。上传选项中有注释框，小明填写了”更改了标题“。
 
 这样，每次修改都可以这样进行，这是最简单明了的方式。通过点击时间回溯功能，就可以查看每次的更改了。如图部分是时间回溯功能。
-![image-20221122154312764](https://github.com/sennkuwu/survival-manual/blob/main/image-220221122160025.png)
+![image-20221122154312764](https://github.com/sennkuwu/survival-manual/blob/main/20221122160025.png)
 
 
 
@@ -54,7 +54,7 @@
 
 
 
-### 参考教程
+# 参考教程
 
 git: https://guides.github.com/introduction/git-handbook/
 GitHub: https://guides.github.com/activities/hello-world/
@@ -67,7 +67,7 @@ GitHub: https://guides.github.com/activities/hello-world/
 
 
 
-### 如何共同编写《生存手册》
+# 如何共同编写《生存手册》
 
 有两种方法来共同参与我们的项目。
 
